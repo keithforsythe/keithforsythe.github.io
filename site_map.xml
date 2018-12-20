@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+   xmlns="http://www.google.com/schemas/sitemap/0.84" 
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+   xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84 http://www.google.com/schemas/sitemap/0.84/sitemap.xsd"
+   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url> 
+    <loc>http://www.keithforsythe.github.io</loc> 
+    <image:image>
+       <image:loc>http://www.keithforsythe.github.io/img/site_icon.png</image:loc> 
+    </image:image>
+    <lastmod>2018-12-010</lastmod>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>2.0</priority>
+  </url>
+</urlset>

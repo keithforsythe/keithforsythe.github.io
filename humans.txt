@@ -1,0 +1,18 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Visual Design : Keith Forsythe
+  UI Developer : Keith Forsythe
+  Site : 
+
+/* THANKS */
+  Parceljs : https://parceljs.org
+  Visual Studio Code : https://code.visualstudio.com
+
+/* SITE */
+  Standards : HTML5, CSS3
+  Components : GoogleFonts
+  Software : Parceljs, Affinity Designer, Visual Studio Code
+  Hardware : 15 inch MacBook Pro late 2017
