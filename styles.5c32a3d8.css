@@ -505,8 +505,8 @@ html, body {
 }
 @font-face {
   font-family: "gsl-icons";
-  src: url("gsl-icons.3301e6db.eot?j514kb");
-  src: url("gsl-icons.3301e6db.eot?j514kb#iefix") format("embedded-opentype"), url("gsl-icons.011ef883.ttf?j514kb") format("truetype"), url("gsl-icons.bc316d7b.woff?j514kb") format("woff"), url("gsl-icons.5e2c8989.svg?j514kb#gsl-icons") format("svg");
+  src: url("/gsl-icons.3301e6db.eot?j514kb");
+  src: url("/gsl-icons.3301e6db.eot?j514kb#iefix") format("embedded-opentype"), url("/gsl-icons.011ef883.ttf?j514kb") format("truetype"), url("/gsl-icons.bc316d7b.woff?j514kb") format("woff"), url("/gsl-icons.5e2c8989.svg?j514kb#gsl-icons") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -689,8 +689,8 @@ html, body {
 
 @font-face {
   font-family: "layericons";
-  src: url("layericons.f3e21354.eot?h7hxzz");
-  src: url("layericons.f3e21354.eot?h7hxzz#iefix") format("embedded-opentype"), url("layericons.480a9f3b.ttf?h7hxzz") format("truetype"), url("layericons.43e03289.woff?h7hxzz") format("woff"), url("layericons.b8dae2c2.svg?h7hxzz#layericons") format("svg");
+  src: url("/layericons.f3e21354.eot?h7hxzz");
+  src: url("/layericons.f3e21354.eot?h7hxzz#iefix") format("embedded-opentype"), url("/layericons.480a9f3b.ttf?h7hxzz") format("truetype"), url("/layericons.43e03289.woff?h7hxzz") format("woff"), url("/layericons.b8dae2c2.svg?h7hxzz#layericons") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -777,8 +777,8 @@ html, body {
 
 @font-face {
   font-family: "water-analysis";
-  src: url("water-analysis-icons.0635a4d2.eot?9icvwo");
-  src: url("water-analysis-icons.0635a4d2.eot?9icvwo#iefix") format("embedded-opentype"), url("water-analysis-icons.2f182633.ttf?9icvwo") format("truetype"), url("water-analysis-icons.c64e401e.woff?9icvwo") format("woff"), url("water-analysis-icons.ff51c3ba.svg?9icvwo#water-analysis") format("svg");
+  src: url("/water-analysis-icons.0635a4d2.eot?9icvwo");
+  src: url("/water-analysis-icons.0635a4d2.eot?9icvwo#iefix") format("embedded-opentype"), url("/water-analysis-icons.2f182633.ttf?9icvwo") format("truetype"), url("/water-analysis-icons.c64e401e.woff?9icvwo") format("woff"), url("/water-analysis-icons.ff51c3ba.svg?9icvwo#water-analysis") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -1716,11 +1716,11 @@ html, body {
   background-color: #e5e5e5;
 }
 .media-links li.linkedin {
-  background-image: url("linkedin.135042ba.svg");
+  background-image: url("/linkedin.135042ba.svg");
   background-repeat: no-repeat;
 }
 .media-links li.github {
-  background-image: url("github.dc239333.svg");
+  background-image: url("/github.dc239333.svg");
   background-repeat: no-repeat;
 }
 @media screen and (min-width: 768px) {
@@ -2137,3 +2137,5 @@ html, body {
 [data-app-state=sleeping] .modal .modal-content {
   display: none;
 }
+
+/*# sourceMappingURL=/styles.5c32a3d8.css.map */
